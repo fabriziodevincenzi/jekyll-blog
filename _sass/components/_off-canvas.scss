@@ -78,7 +78,7 @@ body {
   width: $off-canvas-width;
   height: 100%;
   padding: ($base-spacing-unit + half($base-spacing-unit)) double($base-spacing-unit);
-  background-color: $bg-color-white;
+  background-color: $bg-color-bg;
   transform: translate3d($off-canvas-width, 0, 0);
 }
 
