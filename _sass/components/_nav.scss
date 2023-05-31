@@ -12,7 +12,7 @@
     transition: $global-transition;
 
     &--current {
-      color: $color-brand;
+      color: $color-bread;
 
       .home-template &:not(:hover) {
         color: $color-link;
