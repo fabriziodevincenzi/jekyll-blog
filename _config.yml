@@ -11,10 +11,10 @@ email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://www.fabriziodevincenzi.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+twitter:     'https://twitter.com/gnoccodimalga'
+github:      'https://github.com/fabriziodevincenzi'
+# instagram:   ''
+# facebook:    ''
 
 markdown:  kramdown
 permalink: pretty
