@@ -23,6 +23,10 @@ layout: default
           {{ content }}
         </div>
 
+        <div class='stripe-coffee'>
+          {% include stripe-coffee.html %}
+        </div>
+
         <div class='c-tags'>
           {% for tag in page.tags %}
             <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>

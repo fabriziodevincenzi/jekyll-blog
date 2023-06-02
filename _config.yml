@@ -17,7 +17,7 @@ github:      'https://github.com/fabriziodevincenzi'
 # facebook:    ''
 
 markdown:  kramdown
-permalink: pretty
+permalink: /:categories/:title:output_ext
 paginate:  10
 
 sass:
