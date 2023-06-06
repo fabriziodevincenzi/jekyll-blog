@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Offer me a coffee
-redirec_to: https://donate.stripe.com/test_eVabKS6nl9hH6Oc9AA
+redirect_to: https://buy.stripe.com/00g9DRe5o6wF2LCaEF
 ---
